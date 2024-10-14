@@ -1,0 +1,1 @@
+The given part1.py takes 1 argument which is the image which is to be processed. For example:"C:\Users\GAGANDEEP_SINGH\Desktop\source.jpg"
